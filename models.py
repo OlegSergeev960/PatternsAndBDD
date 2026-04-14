@@ -12,3 +12,7 @@ class Note(BaseModel):
     id: int
     title: str
     content: str
+
+
+class User:
+    pass
